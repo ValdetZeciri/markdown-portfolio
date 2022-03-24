@@ -1,5 +1,5 @@
-- Emoji
+* Emoji
 
-- Ordered List
+* Ordered List
 
-- Unordered List
+* Unordered List
